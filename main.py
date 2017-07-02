@@ -31,6 +31,6 @@ for i in DClasses:
 
 
 accuracy=right/total
-print('accuracy = ',accuracy) # accuracy =  0.98
+print('accuracy = ',accuracy) # accuracy =  0.8502994011976048
 
 
